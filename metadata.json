@@ -1,0 +1,7 @@
+{
+  "name": "Astrograph",
+  "description": "A mystical professional discovery engine mapping your soul's career constellation through the void of the future.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
